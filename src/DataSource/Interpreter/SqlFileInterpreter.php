@@ -17,5 +17,4 @@ namespace Pimcore\Bundle\DataImporterBundle\DataSource\Interpreter;
 
 class SqlFileInterpreter extends JsonFileInterpreter
 {
-
 }
